@@ -1,4 +1,4 @@
-# 🌎 GA4 Regional Performance Dashboard![Uploading dashboard_preview.png…]()
+# 🌎 GA4 Regional Performance Dashboard!
 
 
 An interactive **Google Analytics 4 (GA4)** dashboard visualizing **regional web traffic and engagement trends** across the **United States**, built in **Looker Studio**.
