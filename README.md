@@ -1,4 +1,5 @@
-# 🌎 GA4 Regional Performance Dashboard
+# 🌎 GA4 Regional Performance Dashboard![Uploading dashboard_preview.png…]()
+
 
 An interactive **Google Analytics 4 (GA4)** dashboard visualizing **regional web traffic and engagement trends** across the **United States**, built in **Looker Studio**.
 
@@ -8,53 +9,58 @@ An interactive **Google Analytics 4 (GA4)** dashboard visualizing **regional web
 
 ---
 
+## 🖼 Dashboard Preview
+
+![GA4 Regional Dashboard Preview](assets/dashboard_preview.png)
+
+---
+
 ## 🧭 Overview
-This project demonstrates how GA4 data can be transformed into a professional, interactive dashboard for performance tracking and data storytelling.  
-The dashboard provides insights into **traffic channels, user devices, session activity**, and **engagement behavior** across U.S. regions.
+This project showcases how GA4 data can be transformed into a professional, interactive dashboard for **data-driven decision-making**.  
+It focuses on analyzing **traffic channels**, **user engagement**, and **device behavior** for the Google Merch Shop (U.S. region).
 
 ### Key Visual Components:
 - 🗺 **Regional Traffic by City** — City-level heatmap visualizing session density  
 - 📈 **Daily Sessions & Active Users** — Trend analysis for engagement consistency  
 - 📊 **Sessions by Channel** — Acquisition breakdown by Direct, Organic, Paid, and Referral  
 - 📱 **Device Distribution** — Ratio of desktop, mobile, and tablet users  
-- 💬 **Engagement Rate by Channel** — Performance indicator for traffic quality  
+- 💬 **Engagement Rate by Channel** — Traffic quality and audience retention indicator  
 
 ---
 
-## 🧠 Insights Summary
+## 🧠 Insights Summary  
 
-1. **Dominance of Direct and Organic Search Traffic**  
-   - Direct: **8,395 sessions**  
-   - Organic Search: **6,918 sessions**  
-   Together they represent more than **75% of total traffic**, reflecting strong brand awareness and organic visibility.  
+Over the last 30 days, the performance of the **Google Merch Shop website (United States)** shows consistent and positive user behavior trends.  
 
-2. **Stable Supporting Channels — Paid Search & Referral**  
-   - Paid Search: **2,955 sessions**  
-   - Referral: **1,257 sessions**  
-   Both channels contribute steady traffic volume with healthy engagement.  
+1. **Strong dominance from Direct and Organic Search traffic**  
+   Both channels contributed the majority of total sessions — **8,395 sessions (Direct)** and **6,918 sessions (Organic Search)**.  
+   This pattern reflects solid brand awareness and effective SEO strategies driving repeat and discovery-based traffic.  
 
-3. **Exceptionally High Engagement Across Channels**  
-   - Average engagement rate exceeds **96%**, led by:  
-     - **Organic Video:** 100%  
-     - **Email:** 99.29%  
-   This indicates a strong match between content and audience intent.  
+2. **Consistent contribution from Paid Search and Referral**  
+   **Paid Search (2,955 sessions)** and **Referral (1,257 sessions)** maintained steady traffic inflow.  
+   These two sources complement the main acquisition channels, indicating balanced growth between organic and paid initiatives.  
 
-4. **Mobile Devices Dominate User Access**  
-   - **73.4% of sessions** come from mobile devices,  
-     compared to **25.6% from desktop**, with the rest split between tablets and smart TVs.  
-   This highlights the importance of a **mobile-first user experience**.  
+3. **Exceptionally high engagement across all channels**  
+   Engagement rates exceeded **96%** on nearly every channel, with **Organic Video (100%)** and **Email (99.29%)** at the top.  
+   This suggests strong content relevance and a highly engaged user base that interacts meaningfully with the site.  
 
-5. **Steady User Activity with Light End-of-Period Fluctuation**  
-   - The daily sessions chart shows consistent engagement throughout the month,  
-     with a mild decline in the final week of October — likely due to **seasonal behavior or campaign adjustments**.  
+4. **Mobile as the dominant device**  
+   Around **73.4% of all sessions** came from **mobile devices**, compared to **25.6% from desktop**.  
+   This highlights the critical importance of maintaining a **mobile-first design** to optimize user experience and conversion performance.  
+
+5. **Stable user activity with slight end-of-period decline**  
+   Daily sessions and active user trends remained stable throughout the month, with a minor dip in the final week of October — likely driven by seasonal changes or campaign rotation.  
 
 ---
 
-## 📈 Analytical Interpretation
-- **Strong engagement** across all channels suggests highly qualified traffic.  
-- The **Direct + Organic synergy** indicates successful SEO and returning visitor behavior.  
-- **Mobile-first dominance** reinforces the need for UX and conversion optimization on mobile devices.  
-- Consistency in sessions and engagement validates the data reliability for future benchmarking.  
+## 📊 Analytical Interpretation  
+
+The data indicates that the site’s **acquisition strategy is well-balanced** between direct and organic sources, supported by **exceptional engagement rates** across all channels.  
+
+The **high proportion of mobile users** underscores the need for ongoing improvements in mobile UX, page performance, and responsive layout design.  
+Meanwhile, **Paid Search and Email Marketing** show strong engagement potential — both can be leveraged for **retargeting and customer retention campaigns**.  
+
+In summary, this dashboard reflects a well-optimized acquisition funnel that effectively attracts, engages, and retains users through measurable SEO and audience loyalty performance.  
 
 ---
 
