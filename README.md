@@ -13,31 +13,61 @@ This project demonstrates how GA4 data can be transformed into a professional, i
 The dashboard provides insights into **traffic channels, user devices, session activity**, and **engagement behavior** across U.S. regions.
 
 ### Key Visual Components:
-- 🗺 **Regional Traffic by City** — City-level heatmap for session density visualization  
-- 📈 **Daily Sessions & Active Users** — Trend analysis of daily user engagement  
-- 📊 **Sessions by Channel** — Acquisition breakdown (Direct, Organic, Paid, Referral)  
-- 📱 **Device Distribution** — Share of sessions from desktop, mobile, tablet, and smart TV  
+- 🗺 **Regional Traffic by City** — City-level heatmap visualizing session density  
+- 📈 **Daily Sessions & Active Users** — Trend analysis for engagement consistency  
+- 📊 **Sessions by Channel** — Acquisition breakdown by Direct, Organic, Paid, and Referral  
+- 📱 **Device Distribution** — Ratio of desktop, mobile, and tablet users  
 - 💬 **Engagement Rate by Channel** — Performance indicator for traffic quality  
 
 ---
 
 ## 🧠 Insights Summary
-1. **Mobile users dominate**, accounting for 73.5% of total sessions → optimize for mobile-first design.  
-2. **Direct traffic** leads with ~8.3K sessions, followed by **Organic Search** (~6.9K).  
-3. **Engagement rates** are exceptionally high across all channels — with **Organic Video** and **Email** reaching nearly 100%.  
-4. A minor decline in user activity near late October indicates a seasonal behavior pattern.  
-5. **Referral** and **Social** traffic show moderate volume but excellent engagement quality.  
+
+1. **Dominance of Direct and Organic Search Traffic**  
+   - Direct: **8,395 sessions**  
+   - Organic Search: **6,918 sessions**  
+   Together they represent more than **75% of total traffic**, reflecting strong brand awareness and organic visibility.  
+
+2. **Stable Supporting Channels — Paid Search & Referral**  
+   - Paid Search: **2,955 sessions**  
+   - Referral: **1,257 sessions**  
+   Both channels contribute steady traffic volume with healthy engagement.  
+
+3. **Exceptionally High Engagement Across Channels**  
+   - Average engagement rate exceeds **96%**, led by:  
+     - **Organic Video:** 100%  
+     - **Email:** 99.29%  
+   This indicates a strong match between content and audience intent.  
+
+4. **Mobile Devices Dominate User Access**  
+   - **73.4% of sessions** come from mobile devices,  
+     compared to **25.6% from desktop**, with the rest split between tablets and smart TVs.  
+   This highlights the importance of a **mobile-first user experience**.  
+
+5. **Steady User Activity with Light End-of-Period Fluctuation**  
+   - The daily sessions chart shows consistent engagement throughout the month,  
+     with a mild decline in the final week of October — likely due to **seasonal behavior or campaign adjustments**.  
+
+---
+
+## 📈 Analytical Interpretation
+- **Strong engagement** across all channels suggests highly qualified traffic.  
+- The **Direct + Organic synergy** indicates successful SEO and returning visitor behavior.  
+- **Mobile-first dominance** reinforces the need for UX and conversion optimization on mobile devices.  
+- Consistency in sessions and engagement validates the data reliability for future benchmarking.  
 
 ---
 
 ## ⚙️ Tech Stack
+
 | Tool | Function |
 |------|-----------|
-| **Google Analytics 4 (GA4)** | Data collection & web traffic tracking |
-| **Looker Studio** | Visualization & interactive reporting |
-| **GitHub** | Version control & public portfolio hosting |
+| **Google Analytics 4 (GA4)** | Data collection & user behavior tracking |
+| **Looker Studio** | Data visualization and interactive reporting |
+| **GitHub** | Portfolio hosting & version control |
 
 ---
+
 
 
 ## 👩‍💻 Author
