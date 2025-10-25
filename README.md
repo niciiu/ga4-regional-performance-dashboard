@@ -3,7 +3,7 @@
 
 An interactive **Google Analytics 4 (GA4)** dashboard visualizing **regional web traffic and engagement trends** across the **United States**, built in **Looker Studio**.
 
-🔗 **[View Live Dashboard →](https://lookerstudio.google.com/s/tMPLrp0ZofM)**  
+🔗 **[View Live Dashboard in Looker Studio →](https://lookerstudio.google.com/s/tMPLrp0ZofM)**  
 📄 **[View Dashboard PDF Preview →](https://github.com/niciiu/ga4-regional-performance-dashboard/blob/main/Regional_Traffic_by_City_%E2%80%94_United_State%20(1).pdf)**  
 📅 *Data Source: GA4 Demo Account — Google Merch Shop (Last 30 Days)*  
 
