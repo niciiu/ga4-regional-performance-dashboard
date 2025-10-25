@@ -34,7 +34,6 @@ The dashboard presents a comprehensive overview of **user behavior**, **traffic 
 |------|-----------|
 | **Google Analytics 4 (GA4)** | Web traffic data collection |
 | **Looker Studio** | Dashboard visualization |
-| **BigQuery (optional)** | Data warehousing (for scalable queries) |
 | **GitHub** | Portfolio hosting & version control |
 
 ---
